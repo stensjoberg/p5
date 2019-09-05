@@ -36,13 +36,13 @@ All models supplied are of the STL file format. Simply download the file you wan
 
 ## Ethical Do's and Don't's
 
-DO test your own home's physical security with the tools and information in this project.
+**DO** test your own home's physical security with the tools and information in this project.
 
-DO use the information in this project to increase awareness of poor physical security around the world.
+**DO** use the information in this project to increase awareness of poor physical security around the world.
 
-DON'T use the tools or information provided here to break any laws.
+**DON'T** use the tools or information provided here to break any laws.
 
-DON'T use the tools or information provided here to do anything ethically dubious.
+**DON'T** use the tools or information provided here to do anything ethically dubious.
 
 ## Contribute
 

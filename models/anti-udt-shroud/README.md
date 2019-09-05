@@ -10,4 +10,4 @@ Depending on the orientation of your handle, mirror the model while slicing it t
 
 ## Usage Instructions
 
-This defensive tool should be fitted around a lever-action door to prevent unauthorized access using an Under Door Tool. While this model provides no security guarantees, it does make using an Under Door Tool much more challenging.
+This defensive tool should be fitted around a lever-action door handle to prevent unauthorized access using an Under Door Tool. While this model provides no security guarantees, it does make using an Under Door Tool much more challenging.
