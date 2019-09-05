@@ -13,7 +13,7 @@
 3. Glue the two pieces together and optionality trim the edges.
 4. Cut out a small rectangle 3 cm high and 1 cm wide, 3 cm from the top of the tool.
 
-See [dimensions](www.github.com/stensjoberg/p5/diy/plastic-shim-dimensions.png).
+See [dimensions](plastic-shim-dimensions.png).
 
 ## Usage instructions
 

@@ -17,13 +17,13 @@ In this project you will find several models for 3D-printed paraphernalia relate
 
 ### Defensive
 
-- [Anti-UDT Shroud](www.github.com/stensjoberg/p5/models/anti-udt-shroud/)
-- [Security Door Wedge](www.github.com/stensjoberg/p5/models/security-door-wedge/) 
+- [Anti-UDT Shroud](models/anti-udt-shroud/)
+- [Security Door Wedge](models/security-door-wedge/) 
 
 ### Offensive
 
-- [Double Door Tool](www.github.com/stensjoberg/p5/models/double-door-tool/)
-- [Hinge Removal Aid](www.github.com/stensjoberg/p5/models/hinge-removal-aid/)
+- [Double Door Tool](models/double-door-tool/)
+- [Hinge Removal Aid](models/hinge-removal-aid/)
 
 ### Printing instructions
 
@@ -31,8 +31,8 @@ All models supplied are of the STL file format. Simply download the file you wan
 
 ## DIY Tool Guides
 
-- [Under Door Tool](www.github.com/stensjoberg/p5/diy/under-door-tool.md)
-- [Plastic Shim](www.github.com/stensjoberg/p5/diy/plastic-shim.md)
+- [Under Door Tool](diy/under-door-tool.md)
+- [Plastic Shim](diy/plastic-shim.md)
 
 ## Ethical Do's and Don't's
 
