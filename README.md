@@ -31,8 +31,8 @@ All models supplied are of the STL file format. Simply download the file you wan
 
 ## DIY Tool Guides
 
-- [Under Door Tool](diy/under-door-tool.md)
-- [Plastic Shim](diy/plastic-shim.md)
+- [Under Door Tool](diy/under-door-tool/README.md)
+- [Plastic Shim](diy/plastic-shim/README.md)
 
 ## Ethical Do's and Don't's
 
