@@ -50,5 +50,6 @@ All models supplied are of the STL file format. Simply download the file you wan
 Anyone is welcome to contribute with 3D models, DIY guides or penetration testing methodologies. I'll do my best to approve pull requests as quickly as possible.
 
 ## License 
-MIT
+
+All files in this repository are covered by the [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md) license.
 
