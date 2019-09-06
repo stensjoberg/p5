@@ -1,5 +1,7 @@
 # Hinge Removal Aid
 
+![](hinge-removal-aid.jpg)
+
 ## Printing Instructions
 
 - Orientation: Standing up

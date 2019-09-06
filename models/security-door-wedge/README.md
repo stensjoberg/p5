@@ -1,5 +1,7 @@
 # Security Door Wedge
 
+![](security-door-wedge.jpg)
+
 ## Printing Instructions
 
 - Orientation: Lying down on its side

@@ -1,5 +1,7 @@
 # Anti UDT Shroud
 
+![](anti-udt-shroud.jpg)
+
 ## Printing Instructions
 
 - Orientation: Lying down

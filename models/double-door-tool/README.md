@@ -1,5 +1,6 @@
 # Double Door Tool
 
+![](double-door-tool.jpg)
 ## Printing Instructions
 
 - Orientation: Lying down
